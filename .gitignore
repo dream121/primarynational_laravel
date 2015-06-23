@@ -1,0 +1,12 @@
+/.idea/*
+/bootstrap/compiled.php
+/app/config/database.php
+/vendor
+/public/photos/
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+.clpprj
